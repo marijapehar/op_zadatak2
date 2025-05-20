@@ -24,4 +24,4 @@ Dekkerov algoritam je klasičan primjer algoritma za rješavanje problema međus
 - Ispis rezultata omogućuje praćenje redoslijeda ulaska procesa u kritični odsječak.
 
 ## Kako pokrenuti program
-   gcc main.c -o zadatak2
+   gcc main.c -o program
